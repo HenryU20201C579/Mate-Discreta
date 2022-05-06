@@ -1,0 +1,17 @@
+C:\Users\HP\Downloads\MAPA K-form\MAPA K-FORM\x64\Debug\MAPA K-FORM.vcxprojAssemblyReference.cache
+C:\Users\HP\Downloads\MAPA K-form\MAPA K-FORM\x64\Debug\MAPAKFORM.Form2v.resources
+C:\Users\HP\Downloads\MAPA K-form\MAPA K-FORM\x64\Debug\MAPAKFORM.Form3v.resources
+C:\Users\HP\Downloads\MAPA K-form\MAPA K-FORM\x64\Debug\MAPAKFORM.Form4v.resources
+C:\Users\HP\Downloads\MAPA K-form\MAPA K-FORM\x64\Debug\MAPAKFORM.Integrantes.resources
+C:\Users\HP\Downloads\MAPA K-form\MAPA K-FORM\x64\Debug\MAPAKFORM.PagePrincipal.resources
+C:\Users\HP\Downloads\MAPA K-form\MAPA K-FORM\x64\Debug\MAPAKFORM.PrincipalForm.resources
+C:\Users\HP\Downloads\MAPA K-form\MAPA K-FORM\x64\Debug\MAPA K-FORM.vcxproj.GenerateResource.cache
+C:\Users\Henry\Downloads\SV31_MAPA K_GRUPO_9\MAPA K-FORM\x64\Debug\MAPA K-FORM.vcxproj.AssemblyReference.cache
+C:\Users\Henry\Downloads\SV31_MAPA K_GRUPO_9\MAPA K-FORM\x64\Debug\MAPA K-FORM.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Henry\Downloads\SV31_MAPA K_GRUPO_9\MAPA K-FORM\x64\Debug\MAPAKFORM.Form2v.resources
+C:\Users\Henry\Downloads\SV31_MAPA K_GRUPO_9\MAPA K-FORM\x64\Debug\MAPAKFORM.Form3v.resources
+C:\Users\Henry\Downloads\SV31_MAPA K_GRUPO_9\MAPA K-FORM\x64\Debug\MAPAKFORM.Form4v.resources
+C:\Users\Henry\Downloads\SV31_MAPA K_GRUPO_9\MAPA K-FORM\x64\Debug\MAPAKFORM.Integrantes.resources
+C:\Users\Henry\Downloads\SV31_MAPA K_GRUPO_9\MAPA K-FORM\x64\Debug\MAPAKFORM.PagePrincipal.resources
+C:\Users\Henry\Downloads\SV31_MAPA K_GRUPO_9\MAPA K-FORM\x64\Debug\MAPAKFORM.PrincipalForm.resources
+C:\Users\Henry\Downloads\SV31_MAPA K_GRUPO_9\MAPA K-FORM\x64\Debug\MAPA K-FORM.vcxproj.GenerateResource.cache
